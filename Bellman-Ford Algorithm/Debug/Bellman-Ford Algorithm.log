@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\levip_000\source\repos\bellman-ford algorithm\bellman-ford algorithm\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\levip_000\source\repos\bellman-ford algorithm\bellman-ford algorithm\source.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\levip_000\source\repos\bellman-ford algorithm\bellman-ford algorithm\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\levip_000\source\repos\bellman-ford algorithm\bellman-ford algorithm\source.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  Bellman-Ford Algorithm.vcxproj -> C:\Users\levip_000\source\repos\Bellman-Ford Algorithm\Debug\Bellman-Ford Algorithm.exe
