@@ -10,4 +10,8 @@ number of edges (links) in the graph.</li>
 </b>
 <h2>Solved Graph</h2>
 <img src="https://github.com/levipomeroy/Bellman-Ford_Shortest-Path_Algorithm/blob/master/Images/Solved.PNG?raw=true" height=300 width=550/>
+</b>
+</b>
+<h2>Output</h2>
+<img src="https://github.com/levipomeroy/Bellman-Ford_Shortest-Path_Algorithm/blob/master/Images/Output.PNG?raw=true" height=300 width=400/>
 
